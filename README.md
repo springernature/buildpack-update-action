@@ -1,3 +1,10 @@
+# Obsolete
+
+Please use [cf-buildpack-update-action](https://github.com/springernature/cf-buildpack-update-action) in place of this.
+This repository will be archived soon. Existing GitHub Action workflows using this repo here might break.
+
+----
+
 # Buildpack update action
 
 Create pull requests to update Cloud Foundry buildpacks in manifest files.
